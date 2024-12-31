@@ -1,0 +1,4 @@
+classes=5
+train=./datas/train.txt
+names=./datas/obj.names
+backup=./backup/
